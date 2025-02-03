@@ -1,0 +1,1124 @@
+@import url("https://fonts.googleapis.com/css2?family=Plus Jakarta Sans:wght@400;500;600;700");
+@import url("https://api.fontshare.com/css?f[]=plus jakarta sans@400,500,600,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=TT Commons Pro Trial Variable:wght@278;400;490;589");
+@import url("https://api.fontshare.com/css?f[]=tt commons pro trial variable@278,400,490,589&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=HeliosCond:wght@400;700");
+@import url("https://api.fontshare.com/css?f[]=helioscond@400,700&display=swap");
+
+p,
+ol,
+ul {
+  margin: 0px;
+}
+
+button {
+  padding: 0px;
+}
+
+ol,
+ul {
+  padding-inline-start: 1.5em;
+}
+
+input {
+  background-image: none;
+  background-color: transparent;
+}
+
+.common-27,
+.catalog-t-vuesax-bold-gallery,
+.catalog-t-vuesax-bold-gallery-2 {
+  position: absolute;
+  left: calc(50% + -30px + -8.48px);
+  z-index: 0;
+}
+
+.common-28,
+.catalog-catalog,
+.catalog-t_3tvuesax-bold-gallery,
+.catalog-ttt-vuesax-bold-gallery_,
+.catalog-t_5tvuesax-bold-gallery,
+.catalog-t-vuesax-bold-gallery-catalog {
+  position: relative;
+  z-index: 0;
+}
+
+.common-29,
+.catalog-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et,
+.catalog-t-3 {
+  position: absolute;
+  z-index: 0;
+}
+
+.common-25,
+.catalog-component-7,
+.catalog-component-10,
+.catalog-component-13,
+.catalog-component-16 {
+  letter-spacing: -0.03em;
+  line-height: 1.08;
+}
+
+.common-26,
+.catalog-component-8,
+.catalog-component-11,
+.catalog-component-14,
+.catalog-component-17 {
+  letter-spacing: 0em;
+  line-height: normal;
+}
+
+.common-10,
+.catalog-tttt-vuesax-bold-gallery_,
+.catalog-t-vuesax-linear-heart-1,
+.catalog-t_1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.common-11,
+.home-t-union,
+.catalog-t-t2024company-name-all-rights-reserved {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.common-12,
+.catalog-ttt,
+.catalog-t-2,
+.catalog-t-catalog-1catalog-1tcatalog-1tvuesax-bold-gallery-catalog,
+.catalog-tt,
+.catalog-t-5,
+.catalog-t-6 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.common-13,
+.catalog-ttttt-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-tgroup-1000004169t10100079805520101komdyr-borpet-ru-79805520101manager-borpet-ru,
+.catalog-ttt-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-tgroup-1000004169t {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.common-14,
+.catalog-ttttt,
+.catalog-ttt-t2024company-name-all-rights-reserved {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.common-15,
+.catalog-t-union,
+.catalog-t-vector,
+.catalog-t,
+.catalog-t-union-1,
+.catalog-t_3tvuesax-bold-gallery,
+.catalog-t-catalog,
+.catalog-t-vuesax-bold-gallery-catalog,
+.catalog-tt-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-tgroup {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.common-16,
+.catalog-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et,
+.home-tt-vector-t,
+.catalog-tt-bg-line-4line,
+.catalog-tt-vuesax-linear-heart,
+.catalog-t-t_3tvuesax-bold-gallery,
+.catalog-t-999button-rental,
+.catalog-t-999button-rental-1,
+.catalog-t_5tvuesax-bold-gallery,
+.catalog-t-999button-rental-2,
+.catalog-t-vuesax-linear-heart-2,
+.catalog-t_,
+.catalog-t-999button-rental-3,
+.catalog-t-line {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.common-17,
+.catalog-t-logo,
+.catalog-ttt-vuesax-linear-heart,
+.catalog-ttt-vuesax-bold-gallery_,
+.catalog-t-group {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.common-18,
+.home-tt-union,
+.catalog-tt-union,
+.catalog-ttttt-vuesax-bold-gallery_4tvuesax-linear-heart {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.common-19,
+.catalog-t-1,
+.catalog-tt-catalog-1catalog-1tcatalog-1tvuesax-bold-gallery-catalog,
+.catalog-t-show-more {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.common-20,
+.catalog-catalog-1,
+.catalog-catalog-3,
+.catalog-catalog-4 {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.common-21,
+.catalog-t-bg-line-4line,
+.catalog-t-vuesax-linear-heart,
+.catalog-tt-t_1tt {
+  display: flex;
+  align-items: center;
+}
+
+.common-22,
+.catalog-t-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-tgroup,
+.catalog-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-1 {
+  display: flex;
+  align-items: flex-end;
+}
+
+.common-23,
+.catalog-catalog,
+.catalog-t-vuesax-bold-gallery,
+.catalog-t-vuesax-bold-gallery-1,
+.catalog-t-vuesax-bold-gallery-2 {
+  flex-direction: column;
+  align-items: center;
+}
+
+.common-24,
+.catalog-ttt-union-tlogo-ttvector-t0tttunion-0vector,
+.catalog-button-rental,
+.catalog-button-rental-1,
+.catalog-button-rental-2,
+.catalog-button-rental-3,
+.catalog-show-more {
+  justify-content: center;
+  align-items: center;
+}
+
+.common-8,
+.catalog-component-2,
+.catalog-tt {
+  font-family: HeliosCond, ui-sans-serif, system-ui, sans-serif;
+  font-weight: 700;
+}
+
+.common-9,
+.catalog-component-9,
+.catalog-component-12,
+.catalog-component-15,
+.catalog-component-18 {
+  font-weight: 600;
+  text-align: center;
+}
+
+.common-1,
+.catalog-t-vuesax-bold-gallery,
+.catalog-t-vuesax-bold-gallery-1,
+.catalog-t-vuesax-bold-gallery-2 {
+  display: flex;
+  width: 60px;
+  height: 60px;
+}
+
+.common-2,
+.catalog-ttt-union-tlogo-ttvector-t0tttunion-0vector,
+.catalog-component-20 {
+  display: flex;
+  background-color: black;
+  color: white;
+}
+
+.common-3,
+.catalog-catalog,
+.catalog-catalog-1,
+.catalog-catalog-2,
+.catalog-catalog-3,
+.catalog-catalog-4 {
+  display: flex;
+  background-color: aliceblue;
+}
+
+.common-4,
+.catalog-button-rental,
+.catalog-button-rental-1,
+.catalog-button-rental-2,
+.catalog-button-rental-3,
+.catalog-show-more {
+  display: flex;
+  background-color: white;
+}
+
+.common-5,
+.catalog-vuesax-linear-heart,
+.catalog-vuesax-linear-heart-1,
+.catalog-vuesax-linear-heart-2,
+.catalog-vuesax-linear-heart-3 {
+  width: 24px;
+  height: 24px;
+}
+
+.common-6,
+.catalog-vuesax-bold-gallery,
+.catalog-vuesax-bold-gallery-1,
+.catalog-vuesax-bold-gallery-2,
+.catalog-vuesax-bold-gallery-3 {
+  width: 60px;
+  height: 60px;
+}
+
+.common-7,
+.catalog-_,
+.catalog-_1,
+.catalog-_2,
+.catalog-_3 {
+  width: 151px;
+  height: 267px;
+}
+
+.catalog-catalog {
+  row-gap: 34px;
+  width: 100%;
+  line-height: 1.5;
+}
+
+.catalog-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et {
+  width: 529px;
+  height: 67px;
+  text-align: center;
+  left: calc(50% + -33.71px + -249.6px);
+  top: 222px;
+  font-family: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  letter-spacing: 0em;
+  flex-shrink: 0;
+}
+
+.catalog-ttt-union-tlogo-ttvector-t0tttunion-0vector {
+  font-size: 20px;
+  font-family: "TT Commons Pro Trial Variable", ui-sans-serif, system-ui,
+    sans-serif;
+  font-weight: 278;
+  line-height: 2.01;
+  letter-spacing: 0em;
+  flex-wrap: wrap;
+  row-gap: 20px;
+  column-gap: 26px;
+  padding-left: 64px;
+  padding-right: 64px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  align-self: stretch;
+}
+
+.home-t-union {
+  row-gap: 9.6px;
+  column-gap: 9.6px;
+  flex-grow: 1;
+}
+
+.catalog-union {
+  width: 40px;
+  height: 28px;
+  flex-shrink: 0;
+}
+
+.catalog-t-logo {
+  padding-bottom: 1px;
+  padding-left: 157px;
+}
+
+.catalog-logo {
+  width: 151px;
+  height: 27px;
+  flex-shrink: 0;
+}
+
+.home-tt-vector-t {
+  column-gap: 9.6px;
+}
+
+.catalog-t-vector {
+  width: 35px;
+  height: 34px;
+  padding-top: 2.5px;
+  flex-shrink: 0;
+}
+
+.catalog-vector {
+  width: 35px;
+  height: 31px;
+  flex-shrink: 0;
+}
+
+.home-tt-union {
+  column-gap: 26px;
+}
+
+.catalog-tt-union {
+  column-gap: 11px;
+}
+
+.catalog-t-union-1 {
+  padding-top: 0.19px;
+}
+
+.catalog-union-1 {
+  width: 28px;
+  height: 36px;
+  flex-shrink: 0;
+}
+
+.home-ttt-union-0vector {
+  width: 36px;
+  height: 36px;
+  flex-shrink: 0;
+}
+
+.catalog-t-1 {
+  align-self: stretch;
+  padding-top: 6px;
+}
+
+.catalog-component-2 {
+  text-align: center;
+  font-size: 48px;
+  letter-spacing: -0.02em;
+}
+
+.catalog-ttttt {
+  align-self: stretch;
+  padding-left: 68px;
+  padding-right: 68px;
+  padding-top: 114px;
+  z-index: 4;
+}
+
+.catalog-ttt {
+  font-size: 22px;
+  font-family: "TT Commons Pro Trial Variable", ui-sans-serif, system-ui,
+    sans-serif;
+  letter-spacing: -0.02em;
+  row-gap: 17px;
+  column-gap: 124px;
+  padding-right: 83px;
+}
+
+.catalog-t-2 {
+  row-gap: 17px;
+  column-gap: 53px;
+}
+
+.catalog-component-3 {
+  width: 295px;
+  text-align: center;
+  color: gray;
+  font-weight: 490;
+  flex-shrink: 0;
+}
+
+.catalog-component-4 {
+  font-weight: 589;
+}
+
+.catalog-component-5 {
+  font-weight: 490;
+}
+
+.catalog-component-6 {
+  font-weight: 490;
+  padding-left: 64px;
+}
+
+.catalog-tt-bg-line-4line {
+  align-self: stretch;
+  padding-left: 64px;
+  padding-right: 63px;
+}
+
+.catalog-t-bg-line-4line {
+  flex-grow: 1;
+  height: 1px;
+  padding-left: 327px;
+  padding-right: 681px;
+  z-index: 0;
+  background-image: url(/assets_catolog/Line.svg);
+  background-size: cover;
+  background-position: center;
+}
+
+.catalog-line {
+  margin-bottom: 3.5px;
+  flex-grow: 1;
+  height: 4px;
+  z-index: 2;
+}
+
+.catalog-tt-catalog-1catalog-1tcatalog-1tvuesax-bold-gallery-catalog {
+  align-self: stretch;
+  padding-left: 64px;
+  padding-right: 63px;
+  padding-top: 14px;
+}
+
+.catalog-t-catalog-1catalog-1tcatalog-1tvuesax-bold-gallery-catalog {
+  row-gap: 31px;
+  column-gap: 31px;
+  flex-grow: 1;
+  font-family: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
+  font-weight: 700;
+}
+
+.catalog-catalog-1 {
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  row-gap: 0px;
+  padding-bottom: 24px;
+  padding-left: 2.6px;
+  padding-right: 2.6px;
+  padding-top: 19px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.catalog-ttt-vuesax-linear-heart {
+  align-self: stretch;
+  padding-left: 21px;
+}
+
+.catalog-tt-vuesax-linear-heart {
+  flex-grow: 1;
+  max-width: 277px;
+  z-index: 0;
+}
+
+.catalog-component-7 {
+  flex-grow: 1;
+  z-index: 2;
+}
+
+.catalog-t-vuesax-linear-heart {
+  width: 0px;
+  z-index: 1;
+  flex-shrink: 0;
+}
+
+.catalog-vuesax-linear-heart {
+  margin-left: -45.37px;
+  flex-shrink: 0;
+}
+
+.catalog-t-vuesax-bold-gallery {
+  top: calc(50% + -30px + -7.6px);
+  flex-shrink: 0;
+}
+
+.catalog-vuesax-bold-gallery {
+  flex-shrink: 0;
+}
+
+.catalog-_ {
+  background-image: url(/assets_catolog/_.png);
+  background-size: 100% 100%;
+  background-position: 0px 0px;
+  background-repeat: no-repeat;
+  max-width: 100%;
+  max-height: 100%;
+  z-index: 2;
+  flex-shrink: 0;
+}
+
+.catalog-t-999button-rental {
+  column-gap: 12px;
+}
+
+.catalog-component-8 {
+  width: 128px;
+  font-size: 20px;
+  flex-shrink: 0;
+}
+
+.catalog-button-rental {
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  flex-grow: 1;
+  max-width: 116px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  text-align: left;
+}
+
+.catalog-component-9 {
+  flex-grow: 1;
+  letter-spacing: -0.02em;
+}
+
+.catalog-catalog-2 {
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  align-items: flex-start;
+  row-gap: 6px;
+  flex-direction: column;
+  padding-bottom: 24px;
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-top: 14px;
+  justify-content: center;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.catalog-ttttt-vuesax-bold-gallery_4tvuesax-linear-heart {
+  column-gap: 16px;
+}
+
+.catalog-tttt-vuesax-bold-gallery_ {
+  align-self: stretch;
+  padding-left: 13px;
+  padding-right: 13px;
+  padding-top: 33px;
+}
+
+.catalog-ttt-vuesax-bold-gallery_ {
+  flex-grow: 1;
+  padding-left: 40px;
+}
+
+.catalog-t-3 {
+  height: 34px;
+  max-width: 216px;
+  left: -12.73px;
+  right: -12.73px;
+  top: -33px;
+}
+
+.catalog-t-vuesax-bold-gallery-1 {
+  left: calc(50% + -30px + 12px);
+  top: calc(50% + -30px + -16.58px);
+  position: absolute;
+  flex-shrink: 0;
+}
+
+.catalog-vuesax-bold-gallery-1 {
+  flex-shrink: 0;
+}
+
+.catalog-_1 {
+  object-fit: cover;
+  object-position: center;
+  z-index: 3;
+  flex-shrink: 0;
+}
+
+.catalog-t-vuesax-linear-heart-1 {
+  padding-top: 10px;
+}
+
+.catalog-vuesax-linear-heart-1 {
+  flex-shrink: 0;
+}
+
+.catalog-t-999button-rental-1 {
+  column-gap: 12px;
+}
+
+.catalog-component-11 {
+  width: 128px;
+  font-size: 20px;
+  flex-shrink: 0;
+}
+
+.catalog-button-rental-1 {
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  flex-grow: 1;
+  max-width: 116px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  text-align: left;
+}
+
+.catalog-component-12 {
+  flex-grow: 1;
+  letter-spacing: -0.02em;
+}
+
+.catalog-t-catalog {
+  padding-left: 2px;
+}
+
+.catalog-catalog-3 {
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  row-gap: 2.5px;
+  padding-bottom: 24px;
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-top: 20px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.catalog-tt-vuesax-linear-heart-1 {
+  column-gap: 4.6px;
+  padding-top: 4px;
+  justify-content: center;
+  display: flex;
+}
+
+.catalog-t-4 {
+  flex-grow: 1;
+  height: 20px;
+  max-width: 227px;
+}
+
+.catalog-component-13 {
+  margin-bottom: -4px;
+}
+
+.catalog-vuesax-linear-heart-2 {
+  flex-shrink: 0;
+}
+
+.catalog-t-vuesax-bold-gallery-2 {
+  top: calc(50% + -30px + -20.09px);
+  flex-shrink: 0;
+}
+
+.catalog-vuesax-bold-gallery-2 {
+  flex-shrink: 0;
+}
+
+.catalog-_2 {
+  object-fit: cover;
+  object-position: center;
+  z-index: 2;
+  flex-shrink: 0;
+}
+
+.catalog-t-999button-rental-2 {
+  column-gap: 12px;
+}
+
+.catalog-component-14 {
+  width: 128px;
+  font-size: 20px;
+  flex-shrink: 0;
+}
+
+.catalog-button-rental-2 {
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  flex-grow: 1;
+  max-width: 116px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  text-align: left;
+}
+
+.catalog-component-15 {
+  flex-grow: 1;
+  letter-spacing: -0.02em;
+}
+
+.catalog-t-vuesax-bold-gallery-catalog {
+  padding-left: 2px;
+}
+
+.catalog-catalog-4 {
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  row-gap: 2.5px;
+  padding-bottom: 24px;
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-top: 24px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  z-index: 1;
+}
+
+.catalog-t-vuesax-linear-heart-2 {
+  column-gap: 59px;
+}
+
+.catalog-component-16 {
+  width: 173px;
+  flex-shrink: 0;
+}
+
+.catalog-vuesax-linear-heart-3 {
+  flex-shrink: 0;
+}
+
+.catalog-_3 {
+  object-fit: cover;
+  object-position: center;
+  flex-shrink: 0;
+}
+
+.catalog-t-999button-rental-3 {
+  column-gap: 12px;
+}
+
+.catalog-component-17 {
+  width: 128px;
+  font-size: 20px;
+  flex-shrink: 0;
+}
+
+.catalog-button-rental-3 {
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  flex-grow: 1;
+  max-width: 116px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  text-align: left;
+}
+
+.catalog-component-18 {
+  flex-grow: 1;
+  letter-spacing: -0.02em;
+}
+
+.catalog-vuesax-bold-gallery-3 {
+  z-index: 2;
+  left: calc(50% + -30px + -7.5px);
+  top: calc(50% + -30px + -30.09px);
+  position: absolute;
+  flex-shrink: 0;
+}
+
+.catalog-t-show-more {
+  align-self: stretch;
+  padding-top: 66px;
+}
+
+.catalog-show-more {
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+  flex-grow: 1;
+  max-width: 156px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+}
+
+.catalog-component-19 {
+  flex-grow: 1;
+  text-align: center;
+  font-family: "TT Commons Pro Trial Variable", ui-sans-serif, system-ui,
+    sans-serif;
+  color: darkslateblue;
+  font-weight: 589;
+  letter-spacing: -0.02em;
+}
+
+.catalog-component-20 {
+  letter-spacing: -0.02em;
+  flex-direction: column;
+  row-gap: 17px;
+  justify-content: flex-end;
+  padding-left: 46px;
+  padding-right: 60px;
+  padding-top: 80px;
+  padding-bottom: 59px;
+  margin-top: 50px;
+  align-self: stretch;
+}
+
+.catalog-tt-t_1tt {
+  padding-left: 15px;
+  padding-right: 72px;
+}
+
+.catalog-t-t_1tt {
+  align-items: flex-start;
+  row-gap: 16px;
+  column-gap: 36px;
+  flex-grow: 1;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  display: flex;
+}
+
+.catalog-t_1 {
+  align-self: stretch;
+}
+
+.catalog-_4 {
+  width: 151px;
+  height: 30px;
+  flex-shrink: 0;
+}
+
+.catalog-tt {
+  row-gap: 16px;
+  column-gap: 105px;
+  font-size: 20px;
+}
+
+.catalog-component-21 {
+  mix-blend-mode: normal;
+  width: 152px;
+  flex-shrink: 0;
+}
+
+.catalog-t-5 {
+  row-gap: 16px;
+  column-gap: 36px;
+}
+
+.catalog-component-22 {
+  mix-blend-mode: normal;
+  width: 266px;
+  flex-shrink: 0;
+}
+
+.catalog-component-23 {
+  mix-blend-mode: normal;
+  width: 152px;
+  flex-shrink: 0;
+}
+
+.catalog-ttttt-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-tgroup-1000004169t10100079805520101komdyr-borpet-ru-79805520101manager-borpet-ru {
+  row-gap: 85px;
+  column-gap: 110px;
+  padding-top: 19px;
+  font-family: "TT Commons Pro Trial Variable", ui-sans-serif, system-ui,
+    sans-serif;
+  font-weight: 490;
+}
+
+.catalog-tttt-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-tgroup-1000004169t {
+  flex-grow: 1;
+  height: 169px;
+}
+
+.catalog-ttt-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-tgroup-1000004169t {
+  row-gap: 84px;
+  margin-top: -19px;
+  column-gap: 245px;
+  height: 188px;
+  flex-shrink: 0;
+}
+
+.catalog-tt-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-tgroup {
+  padding-top: 2.9px;
+}
+
+.catalog-t-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-tgroup {
+  row-gap: 23px;
+  flex-direction: column;
+  width: 307px;
+  padding-left: 15px;
+}
+
+.catalog-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-1 {
+  align-self: stretch;
+}
+
+.catalog-t-group {
+  width: 292px;
+  padding-right: 130px;
+}
+
+.catalog-group {
+  width: 177px;
+  height: 70px;
+  flex-shrink: 0;
+}
+
+.catalog-t-6 {
+  row-gap: 82px;
+  column-gap: 82px;
+  width: 449px;
+  flex-shrink: 0;
+}
+
+.catalog-component-24 {
+  mix-blend-mode: normal;
+  width: 174px;
+  flex-shrink: 0;
+}
+
+.catalog-spacer {
+  height: 24px;
+}
+
+.catalog-spacer-1 {
+  height: 24px;
+}
+
+.catalog-spacer-2 {
+  height: 24px;
+}
+
+.catalog-component-25 {
+  mix-blend-mode: normal;
+  width: 192px;
+  flex-shrink: 0;
+}
+
+.catalog-spacer-3 {
+  height: 24px;
+}
+
+.catalog-spacer-4 {
+  height: 24px;
+}
+
+.catalog-spacer-5 {
+  height: 24px;
+}
+
+.catalog-komdyr-borpet-ru-79805520101manager-borpet-ru {
+  mix-blend-mode: normal;
+  width: 224px;
+  flex-shrink: 0;
+}
+
+.catalog-spacer-6 {
+  height: 24px;
+}
+
+.catalog-text {
+  text-decoration: underline;
+}
+
+.catalog-spacer-7 {
+  height: 24px;
+}
+
+.catalog-text-1 {
+  text-decoration: underline;
+}
+
+.catalog-t-line {
+  padding-left: 14px;
+}
+
+.catalog-line-1 {
+  flex-grow: 1;
+  height: 1px;
+}
+
+.catalog-ttt-t2024company-name-all-rights-reserved {
+  padding-left: 18px;
+  padding-right: 18px;
+  padding-top: 18px;
+}
+
+.catalog-t-t2024company-name-all-rights-reserved {
+  font-family: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
+  font-weight: 600;
+  row-gap: 12px;
+  column-gap: 80px;
+  margin-right: 58px;
+  height: 25px;
+  flex-shrink: 0;
+}
+
+.catalog-t-2024company-name-all-rights-reserved {
+  margin-bottom: 0.41px;
+  width: 328px;
+  height: 26px;
+  padding-top: 1.6px;
+  flex-shrink: 0;
+}
+
+.catalog-company-name-all-rights-reserved {
+  mix-blend-mode: normal;
+}
+
+.catalog-component-26 {
+  mix-blend-mode: normal;
+  width: 366px;
+  text-align: right;
+  flex-shrink: 0;
+}
+@media (min-width: 1430px) {
+  .catalog-ttt-union-tlogo-ttvector-t0tttunion-0vector {
+    flex-wrap: nowrap;
+  }
+  .home-t-union {
+    flex-wrap: nowrap;
+  }
+  .catalog-ttt {
+    flex-wrap: nowrap;
+  }
+  .catalog-t-2 {
+    flex-wrap: nowrap;
+  }
+  .catalog-t-catalog-1catalog-1tcatalog-1tvuesax-bold-gallery-catalog {
+    flex-wrap: nowrap;
+  }
+  .catalog-t-t_1tt {
+    flex-wrap: nowrap;
+  }
+  .catalog-tt {
+    flex-wrap: nowrap;
+  }
+  .catalog-t-5 {
+    flex-wrap: nowrap;
+  }
+  .catalog-ttttt-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-tgroup-1000004169t10100079805520101komdyr-borpet-ru-79805520101manager-borpet-ru {
+    flex-wrap: nowrap;
+  }
+  .catalog-ttt-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-tgroup-1000004169t {
+    flex-wrap: nowrap;
+  }
+  .catalog-t-6 {
+    flex-wrap: nowrap;
+  }
+  .catalog-t-t2024company-name-all-rights-reserved {
+    flex-wrap: nowrap;
+  }
+}

@@ -1,0 +1,169 @@
+@import url("https://fonts.googleapis.com/css2?family=HeliosCond:wght@400;700");
+@import url("https://api.fontshare.com/css?f[]=helioscond@400,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=TT Commons Pro Trial Variable:wght@400;453");
+@import url("https://api.fontshare.com/css?f[]=tt commons pro trial variable@400,453&display=swap");
+
+p,
+ol,
+ul {
+  margin: 0px;
+}
+
+button {
+  padding: 0px;
+}
+
+ol,
+ul {
+  padding-inline-start: 1.5em;
+}
+
+input {
+  background-image: none;
+  background-color: transparent;
+}
+
+.common-5,
+.class_7,
+.class_1,
+.class_4,
+.class_5,
+.class_7-4 {
+  letter-spacing: -0.02em;
+  line-height: 1.5;
+}
+
+.common-6,
+.class_7-5,
+.class_7-6 {
+  letter-spacing: 0em;
+  line-height: normal;
+}
+
+.common-3,
+.class_2,
+.class_14-3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.common-4,
+.class_14,
+.class_3,
+.class_9 {
+  display: flex;
+  align-items: flex-end;
+}
+
+.common-1,
+.class_7,
+.class_1,
+.class_4,
+.class_5 {
+  font-size: 42px;
+  font-family: HeliosCond, ui-sans-serif, system-ui, sans-serif;
+  font-weight: 700;
+  text-align: left;
+}
+
+.common-2,
+.class_7-5,
+.class_7-6 {
+  font-size: 24px;
+  font-family: "TT Commons Pro Trial Variable", ui-sans-serif, system-ui,
+    sans-serif;
+  font-weight: 453;
+}
+
+.class_13 {
+  align-items: flex-start;
+  background-color: white;
+  row-gap: 14px;
+  flex-direction: column;
+  padding-bottom: 182px;
+  padding-left: 59px;
+  padding-right: 75px;
+  padding-top: 59px;
+  position: relative;
+  display: flex;
+  width: 100%;
+}
+
+.class_11 {
+  align-items: center;
+  row-gap: 6.7px;
+  column-gap: 18px;
+  align-self: stretch;
+  flex-wrap: wrap;
+  display: flex;
+}
+
+.class_2 {
+  padding-top: 2.3px;
+}
+
+.class_12 {
+  width: 21px;
+  height: 11px;
+  flex-shrink: 0;
+}
+
+.class_14 {
+  align-self: stretch;
+  padding-top: 27px;
+}
+
+.class_3 {
+  align-self: stretch;
+  padding-top: 27px;
+}
+
+.class_9 {
+  align-self: stretch;
+  padding-top: 27px;
+}
+
+.class_14-3 {
+  align-self: stretch;
+  padding-top: 27px;
+  justify-content: center;
+}
+
+.class_7-4 {
+  font-family: HeliosCond, ui-sans-serif, system-ui, sans-serif;
+  font-size: 42px;
+  font-weight: 700;
+}
+
+.class_7-5 {
+  padding-top: 20px;
+  align-self: stretch;
+}
+
+.class_7-6 {
+  width: 229px;
+}
+
+.class_6 {
+  height: 1px;
+  bottom: 141px;
+  left: 0px;
+  right: 0px;
+  position: absolute;
+  flex-shrink: 0;
+}
+
+.class_10 {
+  width: 200px;
+  height: 75px;
+  bottom: 30px;
+  left: calc(50% + -37.6px + -75.68px);
+  position: absolute;
+  flex-shrink: 0;
+}
+@media (min-width: 470px) {
+  .class_11 {
+    flex-wrap: nowrap;
+  }
+}

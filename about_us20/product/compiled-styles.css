@@ -1,0 +1,1072 @@
+@import url("https://fonts.googleapis.com/css2?family=TT Commons Pro Trial Variable:wght@278;400;490;589;700");
+@import url("https://api.fontshare.com/css?f[]=tt commons pro trial variable@278,400,490,589,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=HeliosCond:wght@400;700");
+@import url("https://api.fontshare.com/css?f[]=helioscond@400,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=DM Sans:wght@400");
+@import url("https://api.fontshare.com/css?f[]=dm sans@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Plus Jakarta Sans:wght@400;600");
+@import url("https://api.fontshare.com/css?f[]=plus jakarta sans@400,600&display=swap");
+
+p,
+ol,
+ul {
+  margin: 0px;
+}
+
+button {
+  padding: 0px;
+}
+
+ol,
+ul {
+  padding-inline-start: 1.5em;
+}
+
+input {
+  background-image: none;
+  background-color: transparent;
+}
+
+.common-26,
+.product-t-1,
+.product-component-7,
+.product-component-9,
+.product-component-10 {
+  letter-spacing: 0.15px;
+  line-height: 22px;
+}
+
+.common-27,
+.product-ttt,
+.product-component-17,
+.product-footer {
+  letter-spacing: -0.02em;
+  line-height: 1.5;
+}
+
+.common-25,
+.product-_1,
+.product-_4 {
+  background-image: url(/assets_product/_4.png);
+  background-repeat: no-repeat;
+  background-position: 0px 0px;
+  background-size: 100% 100%;
+}
+
+.common-10,
+.home-t-union,
+.product-ttt,
+.product-t-2024company-name-all-rights-reserved {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.common-11,
+.product-t-1,
+.product-t-placeholder-image-ttttlorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-t85ttstyle-filled-rectangle,
+.product-t-style-filled-rectangle,
+.product-ttt-rectangle-23794tt999t3trectangle-23794t999t85trectangle-23794ttt999t3trectangle-23794t999t,
+.product-t-10 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.common-12,
+.product-ttt-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-tgroup-1000004169ttt10100079805520101komdyr-borpet-ru-79805520101manager-borpet-ru,
+.product-tt-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-tgroup-1000004169tt {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  flex-wrap: wrap;
+}
+
+.common-13,
+.product-t-union,
+.product-t-vector,
+.product-t,
+.product-t-union-1,
+.product-t-rectangle,
+.product-t-6,
+.product-t-7,
+.product-t-t999t,
+.product-t-8,
+.product-t-9 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.common-14,
+.product-tttt-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-t85ttstyle-filled-rectangle,
+.product-tt-rectangle-23794tt999t,
+.product-t-rectangle-23794t999t,
+.product-t-rectangle-23794ttt999t {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.common-15,
+.product-t-5,
+.product-t-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-tgroup {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.common-16,
+.product-t-nav-bar-top,
+.product-tt-placeholder-image-ttttlorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-t85ttstyle-filled-rectangle-23808t,
+.product-tttt,
+.product-tttt-rectangle-23794tt999t3trectangle-23794t999t85trectangle-23794ttt999t3trectangle-23794t999t,
+.product-t-999t,
+.product-t-999t1,
+.product-t-999t2,
+.product-t-999t3,
+.product-t-line,
+.product-t-t2024company-name-all-rights-reserved {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.common-17,
+.home-tt-vector-t,
+.product-ttt-placeholder-image-ttttlorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-t85ttstyle-filled-rectangle-23808t,
+.product-tt-bg-line-4line,
+.product-t-eva-arrow-back-fill-eva-arrow-back-fill,
+.product-t-t_1t,
+.product-tttt-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-tgroup-1000004169ttt10100079805520101komdyr-borpet-ru-79805520101manager-borpet-ru {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.common-18,
+.home-tt-union,
+.product-tt-union {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.common-19,
+.product-tt-eva-arrow-back-fill-eva-arrow-back-fill,
+.product-t_1t {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.common-20,
+.product-t-logo,
+.product-t-footer {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.common-21,
+.product-tt,
+.product-tt-style-filled-rectangle,
+.product-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-orem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et,
+.product-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et {
+  display: flex;
+  align-items: flex-end;
+}
+
+.common-22,
+.product-do-something,
+.product-t-bg-line-4line,
+.product-t-11 {
+  display: flex;
+  align-items: center;
+}
+
+.common-23,
+.product-rectangle,
+.product-t-12 {
+  flex-direction: column;
+  align-items: center;
+}
+
+.common-24,
+.product-ttt-union-tlogo-ttvector-t0tttunion-0vector,
+.product-placeholder-image,
+.product-rectangle-1,
+.product-rectangle-2,
+.product-rectangle-3,
+.product-rectangle-4 {
+  justify-content: center;
+  align-items: center;
+}
+
+.common-8,
+.product-component-8,
+.product-component-12 {
+  font-size: 60px;
+  font-weight: 700;
+}
+
+.common-9,
+.product-component-17,
+.product-t-10 {
+  font-family: HeliosCond, ui-sans-serif, system-ui, sans-serif;
+  font-weight: 700;
+}
+
+.common-1,
+.product-ttt-union-tlogo-ttvector-t0tttunion-0vector,
+.product-footer {
+  display: flex;
+  background-color: black;
+  color: aliceblue;
+}
+
+.common-2,
+.product-t-rectangle-23794t999t1,
+.product-t-group {
+  display: flex;
+  width: 304px;
+}
+
+.common-3,
+.product-t-12,
+.product-component-34 {
+  display: flex;
+  width: 188px;
+}
+
+.common-4,
+.product-product,
+.product-placeholder-image,
+.product-rectangle-1,
+.product-rectangle-2,
+.product-rectangle-3,
+.product-rectangle-4 {
+  display: flex;
+  background-color: aliceblue;
+}
+
+.common-5,
+.product-style-filled,
+.product-rectangle {
+  display: flex;
+  background-color: darkslateblue;
+}
+
+.common-6,
+.product-eva-arrow-back-fill,
+.product-eva-arrow-back-fill-1 {
+  width: 30px;
+  height: 30px;
+}
+
+.common-7,
+.product-_1,
+.product-_3,
+.product-_4 {
+  width: 146px;
+  height: 259px;
+}
+
+.product-product {
+  row-gap: 34px;
+  flex-direction: column;
+  width: 100%;
+  font-family: "TT Commons Pro Trial Variable", ui-sans-serif, system-ui,
+    sans-serif;
+}
+
+.product-t-nav-bar-top {
+  height: 97px;
+  padding-left: 0.43px;
+  flex-shrink: 0;
+}
+
+.product-ttt-union-tlogo-ttvector-t0tttunion-0vector {
+  font-size: 20px;
+  font-weight: 278;
+  line-height: 2.01;
+  letter-spacing: 0em;
+  flex-wrap: wrap;
+  row-gap: 20px;
+  column-gap: 26px;
+  margin-right: -0.43px;
+  padding-left: 64px;
+  padding-right: 64px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  flex-grow: 1;
+  height: 100px;
+}
+
+.home-t-union {
+  row-gap: 9.6px;
+  column-gap: 9.6px;
+  flex-grow: 1;
+}
+
+.product-union {
+  width: 40px;
+  height: 28px;
+  flex-shrink: 0;
+}
+
+.product-t-logo {
+  align-items: center;
+  padding-bottom: 1px;
+  padding-left: 157px;
+}
+
+.product-logo {
+  width: 151px;
+  height: 27px;
+  flex-shrink: 0;
+}
+
+.home-tt-vector-t {
+  column-gap: 9.6px;
+}
+
+.product-t-vector {
+  width: 35px;
+  height: 34px;
+  padding-top: 2.5px;
+  flex-shrink: 0;
+}
+
+.product-vector {
+  width: 35px;
+  height: 31px;
+  flex-shrink: 0;
+}
+
+.home-tt-union {
+  column-gap: 26px;
+}
+
+.product-tt-union {
+  column-gap: 11px;
+}
+
+.product-t-union-1 {
+  padding-top: 0.19px;
+}
+
+.product-union-1 {
+  width: 28px;
+  height: 36px;
+  flex-shrink: 0;
+}
+
+.home-ttt-union-0vector {
+  width: 36px;
+  height: 36px;
+  flex-shrink: 0;
+}
+
+.product-tt {
+  padding-left: 62px;
+  padding-right: 62px;
+  padding-top: 26px;
+}
+
+.product-t-1 {
+  row-gap: 9.8px;
+  column-gap: 9.8px;
+  font-size: 20px;
+  font-weight: 490;
+}
+
+.product-ttt-placeholder-image-ttttlorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-t85ttstyle-filled-rectangle-23808t {
+  padding-left: 64px;
+  padding-right: 65px;
+  padding-top: 3.1px;
+}
+
+.product-tt-placeholder-image-ttttlorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-t85ttstyle-filled-rectangle-23808t {
+  flex-grow: 1;
+  letter-spacing: 0.5px;
+}
+
+.product-t-placeholder-image-ttttlorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-t85ttstyle-filled-rectangle {
+  row-gap: 80px;
+  column-gap: 80px;
+  flex-grow: 1;
+  padding-bottom: 0.36px;
+}
+
+.product-placeholder-image {
+  border-bottom-left-radius: 24px;
+  border-bottom-right-radius: 24px;
+  padding-bottom: 28px;
+  padding-left: 141px;
+  padding-right: 144px;
+  padding-top: 30px;
+  border-top-left-radius: 24px;
+  border-top-right-radius: 24px;
+}
+
+.product-_ {
+  object-fit: cover;
+  object-position: center;
+  width: 275px;
+  height: 487px;
+  flex-shrink: 0;
+}
+
+.product-tttt-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-t85ttstyle-filled-rectangle {
+  row-gap: 16px;
+  width: 671px;
+  font-size: 20px;
+  flex-shrink: 0;
+}
+
+.product-t-2 {
+  align-self: stretch;
+  max-width: 671px;
+  padding-right: 0.05px;
+}
+
+.product-component-7 {
+  font-weight: 490;
+}
+
+.product-t-3 {
+  align-self: stretch;
+  max-width: 671px;
+  padding-left: 0.56px;
+  padding-top: 20px;
+}
+
+.product-component-8 {
+  font-family: HeliosCond, ui-sans-serif, system-ui, sans-serif;
+  line-height: 66px;
+}
+
+.product-t-4 {
+  align-self: stretch;
+  max-width: 671px;
+  padding-left: 0.56px;
+  padding-top: 6px;
+}
+
+.product-component-9 {
+  font-size: 24px;
+  font-weight: 490;
+}
+
+.product-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  line-height: 32px;
+}
+
+.product-component-10 {
+  font-size: 21px;
+  font-weight: 490;
+  padding-top: 18px;
+}
+
+.product-tt-style-filled-rectangle {
+  padding-left: 0.51px;
+  padding-right: 0.51px;
+  padding-top: 47px;
+}
+
+.product-t-style-filled-rectangle {
+  row-gap: 31px;
+  column-gap: 31px;
+}
+
+.product-style-filled {
+  border-style: solid;
+  border-color: darkslateblue;
+  border-top-width: 1.7px;
+  border-bottom-width: 1.7px;
+  border-left-width: 1.7px;
+  border-right-width: 1.7px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  align-items: center;
+  width: 224px;
+  padding-bottom: 18px;
+  padding-left: 56px;
+  padding-right: 56px;
+  padding-top: 18px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  text-align: left;
+  flex-shrink: 0;
+}
+
+.product-do-something {
+  flex-grow: 1;
+  font-family: "DM Sans", ui-sans-serif, system-ui, sans-serif;
+  color: aliceblue;
+  line-height: 24px;
+}
+
+.product-rectangle {
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  width: 80px;
+  height: 79px;
+  padding-bottom: 24px;
+  padding-left: 22px;
+  padding-right: 22px;
+  padding-top: 24px;
+  justify-content: center;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  text-align: left;
+  flex-shrink: 0;
+}
+
+.product-component-11 {
+  width: 35px;
+  height: 32px;
+  flex-shrink: 0;
+}
+
+.product-t-5 {
+  width: 0.24px;
+  flex-shrink: 0;
+}
+
+.product-component-12 {
+  line-height: 66px;
+}
+
+.product-tttt {
+  padding-left: 147px;
+  padding-right: 145px;
+  padding-top: 40px;
+}
+
+.product-ttt {
+  row-gap: 17px;
+  column-gap: 56px;
+  flex-grow: 1;
+  font-size: 22px;
+  font-weight: 490;
+}
+
+.product-component-13 {
+  font-weight: 589;
+}
+
+.product-component-14 {
+  padding-left: 48px;
+}
+
+.product-component-15 {
+  padding-left: 30px;
+}
+
+.product-tt-bg-line-4line {
+  padding-left: 64px;
+  padding-right: 64px;
+}
+
+.product-t-bg-line-4line {
+  flex-grow: 1;
+  height: 1px;
+  padding-right: 1008px;
+  z-index: 0;
+  background-image: url(/assets_product/Line.svg);
+  background-size: cover;
+  background-position: center;
+}
+
+.product-line {
+  margin-bottom: 3.5px;
+  flex-grow: 1;
+  height: 4px;
+  z-index: 2;
+}
+
+.product-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-orem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et {
+  font-size: 20px;
+  line-height: 32px;
+  letter-spacing: 0.5px;
+  padding-left: 64px;
+  padding-right: 64px;
+  padding-top: 22px;
+}
+
+.product-tt-eva-arrow-back-fill-eva-arrow-back-fill {
+  row-gap: 12px;
+  column-gap: 50px;
+  align-items: flex-end;
+  padding-left: 76px;
+  padding-right: 64px;
+  padding-top: 33px;
+  padding-bottom: 7px;
+}
+
+.product-component-17 {
+  font-size: 48px;
+}
+
+.product-t-eva-arrow-back-fill-eva-arrow-back-fill {
+  column-gap: 50px;
+  height: 23px;
+}
+
+.product-eva-arrow-back-fill {
+  margin-top: 3.5px;
+  flex-shrink: 0;
+}
+
+.product-eva-arrow-back-fill-1 {
+  margin-top: 3.5px;
+  flex-shrink: 0;
+}
+
+.product-tttt-rectangle-23794tt999t3trectangle-23794t999t85trectangle-23794ttt999t3trectangle-23794t999t {
+  padding-left: 64px;
+  padding-right: 64px;
+  padding-top: 26px;
+}
+
+.product-ttt-rectangle-23794tt999t3trectangle-23794t999t85trectangle-23794ttt999t3trectangle-23794t999t {
+  row-gap: 31px;
+  column-gap: 31px;
+  flex-grow: 1;
+  line-height: 1.5;
+  font-weight: 589;
+  letter-spacing: -0.03em;
+}
+
+.product-tt-rectangle-23794tt999t {
+  row-gap: 8.8px;
+}
+
+.product-rectangle-1 {
+  border-bottom-left-radius: 8.8px;
+  border-bottom-right-radius: 8.8px;
+  padding-bottom: 24px;
+  padding-left: 77px;
+  padding-right: 81px;
+  padding-top: 24px;
+  border-top-left-radius: 8.8px;
+  border-top-right-radius: 8.8px;
+}
+
+.product-_1 {
+  max-width: 100%;
+  max-height: 100%;
+  flex-shrink: 0;
+}
+
+.product-component-18 {
+  font-size: 35px;
+}
+
+.product-t-999t {
+  column-gap: 149px;
+}
+
+.product-component-19 {
+  font-size: 53px;
+}
+
+.product-t-6 {
+  padding-bottom: 9.1px;
+}
+
+.product-component-20 {
+  font-size: 27px;
+}
+
+.product-t-rectangle-23794t999t {
+  row-gap: 8.8px;
+}
+
+.product-rectangle-2 {
+  border-bottom-left-radius: 8.8px;
+  border-bottom-right-radius: 8.8px;
+  align-self: stretch;
+  padding-bottom: 32px;
+  padding-left: 83px;
+  padding-right: 83px;
+  padding-top: 32px;
+  border-top-left-radius: 8.8px;
+  border-top-right-radius: 8.8px;
+}
+
+.product-_2 {
+  object-fit: cover;
+  object-position: center;
+  width: 137px;
+  height: 243px;
+  flex-shrink: 0;
+}
+
+.product-component-21 {
+  font-size: 35px;
+}
+
+.product-t-999t1 {
+  column-gap: 139px;
+}
+
+.product-component-22 {
+  font-size: 53px;
+}
+
+.product-t-7 {
+  padding-bottom: 9.1px;
+}
+
+.product-component-23 {
+  font-size: 27px;
+}
+
+.product-t-rectangle-23794ttt999t {
+  row-gap: 8.8px;
+}
+
+.product-rectangle-3 {
+  border-bottom-left-radius: 8.8px;
+  border-bottom-right-radius: 8.8px;
+  align-self: stretch;
+  padding-bottom: 22px;
+  padding-left: 79px;
+  padding-right: 79px;
+  padding-top: 26px;
+  border-top-left-radius: 8.8px;
+  border-top-right-radius: 8.8px;
+}
+
+.product-_3 {
+  background-image: url(/assets_product/_3.png);
+  background-size: 100% 100%;
+  background-position: 0px 0px;
+  background-repeat: no-repeat;
+  max-width: 100%;
+  max-height: 100%;
+  flex-shrink: 0;
+}
+
+.product-component-24 {
+  font-size: 35px;
+}
+
+.product-t-999t2 {
+  column-gap: 149px;
+}
+
+.product-component-25 {
+  font-size: 53px;
+}
+
+.product-t-8 {
+  padding-bottom: 9.1px;
+}
+
+.product-component-26 {
+  font-size: 27px;
+}
+
+.product-t-rectangle-23794t999t1 {
+  align-items: flex-start;
+  row-gap: 8.8px;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.product-rectangle-4 {
+  border-bottom-left-radius: 8.8px;
+  border-bottom-right-radius: 8.8px;
+  align-self: stretch;
+  padding-bottom: 24px;
+  padding-left: 24px;
+  padding-right: 27px;
+  padding-top: 24px;
+  border-top-left-radius: 8.8px;
+  border-top-right-radius: 8.8px;
+}
+
+.product-_4 {
+  max-width: 100%;
+  max-height: 100%;
+  flex-shrink: 0;
+}
+
+.product-component-27 {
+  font-size: 35px;
+}
+
+.product-t-999t3 {
+  column-gap: 149px;
+}
+
+.product-component-28 {
+  font-size: 53px;
+}
+
+.product-t-9 {
+  padding-bottom: 9.1px;
+}
+
+.product-component-29 {
+  font-size: 27px;
+}
+
+.product-t-footer {
+  flex-direction: column;
+  padding-top: 99px;
+}
+
+.product-footer {
+  row-gap: 18px;
+  flex-direction: column;
+  padding-bottom: 96px;
+  padding-left: 31px;
+  padding-right: 31px;
+  padding-top: 70px;
+}
+
+.product-t-t_1t {
+  padding-left: 33px;
+  padding-right: 72px;
+}
+
+.product-t_1t {
+  align-items: flex-start;
+  row-gap: 16px;
+  column-gap: 64px;
+  flex-grow: 1;
+}
+
+.product-_5 {
+  width: 192px;
+  height: 38px;
+  flex-shrink: 0;
+}
+
+.product-t-10 {
+  row-gap: 16px;
+  column-gap: 142px;
+  font-size: 20px;
+}
+
+.product-component-30 {
+  mix-blend-mode: normal;
+  width: 167px;
+  flex-shrink: 0;
+}
+
+.product-component-31 {
+  mix-blend-mode: normal;
+  width: 193px;
+  flex-shrink: 0;
+}
+
+.product-component-32 {
+  mix-blend-mode: normal;
+  width: 152px;
+  flex-shrink: 0;
+}
+
+.product-tttt-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-tgroup-1000004169ttt10100079805520101komdyr-borpet-ru-79805520101manager-borpet-ru {
+  padding-left: 15px;
+}
+
+.product-ttt-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-tgroup-1000004169ttt10100079805520101komdyr-borpet-ru-79805520101manager-borpet-ru {
+  row-gap: 85px;
+  column-gap: 147px;
+  flex-grow: 1;
+  padding-bottom: 17px;
+  font-weight: 490;
+}
+
+.product-tt-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-tgroup-1000004169tt {
+  row-gap: 90px;
+  column-gap: 118px;
+  flex-grow: 1;
+}
+
+.product-t-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-tgroup {
+  row-gap: 27px;
+  flex-grow: 1;
+  max-width: 322px;
+  padding-left: 18px;
+}
+
+.product-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et {
+  align-self: stretch;
+}
+
+.product-t-group {
+  align-items: center;
+  padding-right: 99px;
+  justify-content: flex-end;
+}
+
+.product-group {
+  width: 224px;
+  height: 81px;
+  flex-shrink: 0;
+}
+
+.product-t-11 {
+  width: 247px;
+  padding-bottom: 1.8px;
+  padding-left: 55px;
+  flex-shrink: 0;
+}
+
+.product-component-33 {
+  mix-blend-mode: normal;
+  flex-grow: 1;
+}
+
+.product-spacer {
+  height: 24px;
+}
+
+.product-spacer-1 {
+  height: 24px;
+}
+
+.product-spacer-2 {
+  height: 24px;
+}
+
+.product-t-12 {
+  padding-bottom: 1.8px;
+  flex-shrink: 0;
+}
+
+.product-component-34 {
+  mix-blend-mode: normal;
+  height: 188px;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.product-spacer-3 {
+  height: 24px;
+}
+
+.product-spacer-4 {
+  height: 24px;
+}
+
+.product-spacer-5 {
+  height: 24px;
+}
+
+.product-t-10100079805520101komdyr-borpet-ru-79805520101manager-borpet-ru {
+  width: 224px;
+  height: 171px;
+  flex-shrink: 0;
+}
+
+.product-komdyr-borpet-ru-79805520101manager-borpet-ru {
+  mix-blend-mode: normal;
+  margin-bottom: -17.21px;
+}
+
+.product-spacer-6 {
+  height: 24px;
+}
+
+.product-text {
+  text-decoration: underline;
+}
+
+.product-spacer-7 {
+  height: 24px;
+}
+
+.product-text-1 {
+  text-decoration: underline;
+}
+
+.product-t-line {
+  padding-left: 33px;
+  padding-right: 33px;
+  padding-top: 9px;
+}
+
+.product-line-1 {
+  flex-grow: 1;
+  height: 1px;
+}
+
+.product-t-t2024company-name-all-rights-reserved {
+  padding-left: 33px;
+  padding-right: 33px;
+  padding-top: 17px;
+}
+
+.product-t-2024company-name-all-rights-reserved {
+  row-gap: 12px;
+  column-gap: 80px;
+  flex-grow: 1;
+  font-family: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
+  font-weight: 600;
+}
+
+.product-company-name-all-rights-reserved {
+  mix-blend-mode: normal;
+  width: 328px;
+  flex-shrink: 0;
+}
+
+.product-component-35 {
+  mix-blend-mode: normal;
+  width: 366px;
+  text-align: right;
+  flex-shrink: 0;
+}
+@media (min-width: 1430px) {
+  .product-ttt-union-tlogo-ttvector-t0tttunion-0vector {
+    flex-wrap: nowrap;
+  }
+  .home-t-union {
+    flex-wrap: nowrap;
+  }
+  .product-t-1 {
+    flex-wrap: nowrap;
+  }
+  .product-t-placeholder-image-ttttlorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-t85ttstyle-filled-rectangle {
+    flex-wrap: nowrap;
+  }
+  .product-t-style-filled-rectangle {
+    flex-wrap: nowrap;
+  }
+  .product-ttt {
+    flex-wrap: nowrap;
+  }
+  .product-tt-eva-arrow-back-fill-eva-arrow-back-fill {
+    flex-wrap: nowrap;
+  }
+  .product-ttt-rectangle-23794tt999t3trectangle-23794t999t85trectangle-23794ttt999t3trectangle-23794t999t {
+    flex-wrap: nowrap;
+  }
+  .product-t_1t {
+    flex-wrap: nowrap;
+  }
+  .product-t-10 {
+    flex-wrap: nowrap;
+  }
+  .product-ttt-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-tgroup-1000004169ttt10100079805520101komdyr-borpet-ru-79805520101manager-borpet-ru {
+    flex-wrap: nowrap;
+  }
+  .product-tt-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-tgroup-1000004169tt {
+    flex-wrap: nowrap;
+  }
+  .product-t-2024company-name-all-rights-reserved {
+    flex-wrap: nowrap;
+  }
+}

@@ -1,0 +1,877 @@
+@import url("https://fonts.googleapis.com/css2?family=HeliosCond:wght@400;700");
+@import url("https://api.fontshare.com/css?f[]=helioscond@400,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=TT Commons Pro Trial Variable:wght@278;400;490;589");
+@import url("https://api.fontshare.com/css?f[]=tt commons pro trial variable@278,400,490,589&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Plus Jakarta Sans:wght@400;600");
+@import url("https://api.fontshare.com/css?f[]=plus jakarta sans@400,600&display=swap");
+
+p,
+ol,
+ul {
+  margin: 0px;
+}
+
+button {
+  padding: 0px;
+}
+
+ol,
+ul {
+  padding-inline-start: 1.5em;
+}
+
+input {
+  background-image: none;
+  background-color: transparent;
+}
+
+.common-24,
+.about-us-t-nav-bar-top,
+.about-us-component-11 {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  left: 0px;
+}
+
+.common-25,
+.about-us-ttttt-t79805520101komdyr-borpet-ru-79805520101manager-borpet-ru-tvector-ttmap-small-1trectangle-23810rectangle-23811trectangle-23812trectangle-23813trectangle-23814trectangle-23815trectangle,
+.about-us-footer {
+  position: relative;
+  z-index: 0;
+}
+
+.common-26,
+.about-us-tttt-t79805520101komdyr-borpet-ru-79805520101manager-borpet-ru-tvector,
+.about-us-group {
+  position: absolute;
+  z-index: 0;
+}
+
+.common-23,
+.about-us-ttttt-t79805520101komdyr-borpet-ru-79805520101manager-borpet-ru-tvector-ttmap-small-1trectangle-23810rectangle-23811trectangle-23812trectangle-23813trectangle-23814trectangle-23815trectangle,
+.about-us-ttt-union-tlogo-ttvector-t0tttunion-0vector {
+  letter-spacing: 0em;
+  line-height: 2.01;
+}
+
+.common-22,
+.about-us-rectangle,
+.about-us-rectangle-1,
+.about-us-rectangle-2,
+.about-us-rectangle-3,
+.about-us-rectangle-4,
+.about-us-rectangle-5,
+.about-us-rectangle-6 {
+  border-style: solid;
+  border-color: lightskyblue;
+}
+
+.common-10,
+.about-us-ttttt-t79805520101komdyr-borpet-ru-79805520101manager-borpet-ru-tvector-ttmap-small-1trectangle-23810rectangle-23811trectangle-23812trectangle-23813trectangle-23814trectangle-23815trectangle,
+.about-us-t-t79805520101komdyr-borpet-ru-79805520101manager-borpet-ru {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.common-11,
+.about-us-t-vector,
+.about-us-t-4 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.common-12,
+.about-us-ttt-t79805520101komdyr-borpet-ru-79805520101manager-borpet-ru-tvector,
+.about-us-t-t_1lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-ttt10100079805520101komdyr-borpet-ru-79805520101manager-borpet-ru {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.common-13,
+.home-t-union,
+.about-us-t-2024company-name-all-rights-reserved,
+.about-us-t-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.common-14,
+.about-us-tttt-t79805520101komdyr-borpet-ru-79805520101manager-borpet-ru-tvector,
+.about-us-t-nav-bar-top,
+.about-us-t-union,
+.about-us-t-vector-1,
+.about-us-t-1,
+.about-us-t-union-1,
+.about-us-t-footer,
+.about-us-tt-t_1lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-ttt10100079805520101komdyr-borpet-ru-79805520101manager-borpet-ru,
+.about-us-tt-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.common-15,
+.about-us-tt-t79805520101komdyr-borpet-ru-79805520101manager-borpet-ru-tvector,
+.about-us-t-t2024company-name-all-rights-reserved {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.common-16,
+.about-us-rectangle,
+.about-us-t,
+.home-tt-vector-t,
+.about-us-component-11 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.common-17,
+.home-tt-union,
+.about-us-tt-union {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+.home-ttt-union-0vector
+ {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+.home-ttt-union-0vector {
+  column-gap: 26px;
+}
+
+.common-18,
+.about-us-t-79805520101komdyr-borpet-ru-79805520101manager-borpet-ru,
+.about-us-tt-map-small-1trectangle-23810rectangle-23811trectangle-23812trectangle-23813trectangle-23814trectangle-23815trectangle,
+.about-us-t_1lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et,
+.about-us-t-2,
+.about-us-t-3,
+.about-us-t-10100079805520101komdyr-borpet-ru-79805520101manager-borpet-ru {
+  display: flex;
+  flex-direction: column;
+}
+
+.common-19,
+.about-us-tttttt-t79805520101komdyr-borpet-ru-79805520101manager-borpet-ru-tvector-ttmap-small-1trectangle-23810rectangle-23811trectangle-23812trectangle-23813trectangle-23814trectangle-23815trectangle,
+.about-us-t-map-small,
+.about-us-t-logo,
+.about-us-component-7,
+.about-us-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing,
+.about-us-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-1 {
+  display: flex;
+  align-items: center;
+}
+
+.common-20,
+.about-us-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et,
+.about-us-t-5 {
+  display: flex;
+  align-items: flex-start;
+}
+
+.common-21,
+.about-us-komdyr-borpet-ru,
+.about-us-manager-borpet-ru,
+.about-us-ttt-union-tlogo-ttvector-t0tttunion-0vector {
+  justify-content: center;
+  align-items: center;
+}
+
+.common-4,
+.about-us-component,
+.about-us-component-10 {
+  font-size: 48px;
+  font-family: HeliosCond, ui-sans-serif, system-ui, sans-serif;
+  font-weight: 700;
+}
+
+.common-5,
+.about-us-component-4,
+.about-us-component-6,
+.about-us-component-8 {
+  font-size: 20px;
+  font-family: HeliosCond, ui-sans-serif, system-ui, sans-serif;
+  font-weight: 700;
+}
+
+.common-6,
+.about-us-para,
+.about-us-para-4 {
+  font-size: 32px;
+  font-weight: 589;
+  text-align: center;
+}
+
+.common-7,
+.about-us-text,
+.about-us-text-3 {
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.common-8,
+.about-us-para-1,
+.about-us-para-5 {
+  font-size: 24px;
+  text-align: center;
+}
+
+.common-9,
+.about-us-para-2,
+.about-us-para-6 {
+  font-size: 18px;
+  text-align: center;
+}
+
+.common-1,
+.about-us-wrapper,
+.about-us-about-us {
+  display: flex;
+  width: 100%;
+  height: 100%;
+}
+
+.common-2,
+.about-us-komdyr-borpet-ru,
+.about-us-manager-borpet-ru {
+  display: flex;
+  height: 176px;
+}
+
+.common-3,
+.about-us-ttt-union-tlogo-ttvector-t0tttunion-0vector,
+.about-us-footer {
+  display: flex;
+  background-color: black;
+}
+
+.about-us-wrapper {
+  z-index: 0;
+  align-items: flex-start;
+}
+
+.about-us-about-us {
+  overflow: clip;
+  align-items: flex-end;
+  background-color: white;
+  flex-direction: column;
+  padding-bottom: 1021px;
+  padding-left: 63px;
+  padding-top: 139px;
+  height: 100%;
+  position: relative;
+  font-family: "TT Commons Pro Trial Variable", ui-sans-serif, system-ui,
+    sans-serif;
+  letter-spacing: -0.02em;
+  flex-shrink: 0;
+}
+
+.about-us-tttttt-t79805520101komdyr-borpet-ru-79805520101manager-borpet-ru-tvector-ttmap-small-1trectangle-23810rectangle-23811trectangle-23812trectangle-23813trectangle-23814trectangle-23815trectangle {
+  align-self: stretch;
+  padding-bottom: 43px;
+  padding-right: 65px;
+  padding-top: 43px;
+  z-index: 1;
+}
+
+.about-us-ttttt-t79805520101komdyr-borpet-ru-79805520101manager-borpet-ru-tvector-ttmap-small-1trectangle-23810rectangle-23811trectangle-23812trectangle-23813trectangle-23814trectangle-23815trectangle {
+  flex-grow: 1;
+  padding-top: 70px;
+  text-align: center;
+}
+
+.about-us-tttt-t79805520101komdyr-borpet-ru-79805520101manager-borpet-ru-tvector {
+  width: 809px;
+  bottom: -43.33px;
+  right: -65.25px;
+  top: -43.33px;
+}
+
+.about-us-ttt-t79805520101komdyr-borpet-ru-79805520101manager-borpet-ru-tvector {
+  row-gap: 36px;
+  column-gap: 100px;
+  text-align: center;
+}
+
+.about-us-component {
+  text-align: left;
+  line-height: 1.5;
+  letter-spacing: -0.02em;
+}
+
+.about-us-tt-t79805520101komdyr-borpet-ru-79805520101manager-borpet-ru-tvector {
+  row-gap: 16px;
+  column-gap: 16px;
+  flex-wrap: wrap;
+}
+
+.about-us-t-t79805520101komdyr-borpet-ru-79805520101manager-borpet-ru {
+  text-align: center;
+}
+
+.about-us-t-79805520101komdyr-borpet-ru-79805520101manager-borpet-ru {
+  row-gap: 41px;
+  width: 396px;
+}
+
+.about-us-komdyr-borpet-ru {
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.about-us-text-1 {
+  font-size: 18px;
+}
+
+.about-us-para-3 {
+  text-align: center;
+}
+
+.about-us-text-2 {
+  font-size: 18px;
+  text-decoration: underline;
+  display: inline;
+}
+
+.about-us-manager-borpet-ru {
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.about-us-text-4 {
+  font-size: 18px;
+}
+
+.about-us-para-7 {
+  text-align: center;
+}
+
+.about-us-text-5 {
+  font-size: 18px;
+  text-decoration: underline;
+  display: inline;
+}
+
+.about-us-t-vector {
+  padding-top: 34px;
+  text-align: center;
+}
+
+.about-us-vector {
+  width: 119px;
+  height: 1197px;
+  flex-shrink: 0;
+}
+
+.about-us-tt-map-small-1trectangle-23810rectangle-23811trectangle-23812trectangle-23813trectangle-23814trectangle-23815trectangle {
+  row-gap: 63px;
+  align-self: stretch;
+  z-index: 2;
+}
+
+.about-us-t-map-small {
+  padding-left: 1.3px;
+  padding-right: 1.3px;
+  text-align: center;
+}
+
+.about-us-map-small {
+  object-fit: cover;
+  object-position: center;
+  width: 789px;
+  height: 530px;
+  flex-shrink: 0;
+}
+
+.about-us-t-rectangle-23810rectangle-23811trectangle-23812trectangle-23813trectangle-23814trectangle-23815trectangle {
+  text-align: center;
+}
+
+.about-us-rectangle {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  background-color: lightskyblue;
+  padding-bottom: 7.6px;
+  padding-left: 7.6px;
+  padding-right: 7.6px;
+  padding-top: 7.6px;
+}
+
+.about-us-t {
+  flex-grow: 1;
+  max-width: 727px;
+  padding-left: 33px;
+  text-align: center;
+}
+
+.about-us-component-1 {
+  flex-grow: 1;
+  font-size: 32px;
+  font-weight: 589;
+}
+
+.about-us-rectangle-1 {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  height: 68px;
+  flex-shrink: 0;
+}
+
+.about-us-t-rectangle {
+  height: 66px;
+  flex-shrink: 0;
+}
+
+.about-us-rectangle-2 {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  margin-bottom: -2px;
+  height: 68px;
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.about-us-t-rectangle-1 {
+  height: 66px;
+  flex-shrink: 0;
+}
+
+.about-us-rectangle-3 {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  margin-bottom: -2px;
+  height: 68px;
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.about-us-t-rectangle-2 {
+  height: 66px;
+  flex-shrink: 0;
+}
+
+.about-us-rectangle-4 {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  margin-bottom: -2px;
+  height: 68px;
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.about-us-t-rectangle-3 {
+  height: 66px;
+  flex-shrink: 0;
+}
+
+.about-us-rectangle-5 {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  margin-bottom: -2px;
+  height: 68px;
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.about-us-t-rectangle-4 {
+  height: 66px;
+  flex-shrink: 0;
+}
+
+.about-us-rectangle-6 {
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-right-width: 1px;
+  margin-bottom: -2px;
+  height: 68px;
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.about-us-t-nav-bar-top {
+  height: 99px;
+  flex-shrink: 0;
+}
+
+.about-us-ttt-union-tlogo-ttvector-t0tttunion-0vector {
+  font-size: 20px;
+  font-weight: 278;
+  color: white;
+  flex-wrap: wrap;
+  row-gap: 20px;
+  column-gap: 26px;
+  padding-left: 64px;
+  padding-right: 64px;
+  padding-top: 29px;
+  padding-bottom: 30px;
+}
+
+.home-t-union {
+  row-gap: 14px;
+  column-gap: 383px;
+}
+
+.about-us-union {
+  width: 40px;
+  height: 28px;
+  flex-shrink: 0;
+}
+
+.about-us-t-logo {
+  padding-bottom: 1px;
+  padding-left: 157px;
+  justify-content: flex-end;
+}
+
+.about-us-logo {
+  width: 151px;
+  height: 27px;
+  flex-shrink: 0;
+}
+
+.home-tt-vector-t {
+  column-gap: 9.6px;
+}
+
+.about-us-t-vector-1 {
+  width: 35px;
+  height: 34px;
+  padding-top: 2.5px;
+  flex-shrink: 0;
+}
+
+.about-us-vector-1 {
+  width: 35px;
+  height: 31px;
+  flex-shrink: 0;
+}
+
+.home-tt-union {
+  column-gap: 26px;
+}
+
+.about-us-tt-union {
+  column-gap: 11px;
+}
+
+.about-us-t-union-1 {
+  padding-top: 0.19px;
+}
+
+.about-us-union-1 {
+  width: 28px;
+  height: 36px;
+  flex-shrink: 0;
+}
+
+.about-us-vector-2 {
+  width: 36px;
+  height: 36px;
+  flex-shrink: 0;
+}
+
+.about-us-t-footer {
+  height: 516px;
+  bottom: 0.01px;
+  left: 0px;
+  right: 0px;
+  position: absolute;
+  flex-shrink: 0;
+}
+
+.about-us-footer {
+  align-items: flex-start;
+  row-gap: 27px;
+  flex-direction: column;
+  width: 1440px;
+  padding-bottom: 96px;
+  padding-left: 64px;
+  padding-right: 31px;
+  padding-top: 70px;
+  color: aliceblue;
+  line-height: 1.5;
+}
+
+.about-us-group {
+  width: 224px;
+  height: 81px;
+  left: 46px;
+  top: calc(50% + -40.4px + 17px);
+  flex-shrink: 0;
+}
+
+.about-us-tt-t_1lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-ttt10100079805520101komdyr-borpet-ru-79805520101manager-borpet-ru {
+  z-index: 2;
+}
+
+.about-us-t-t_1lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-ttt10100079805520101komdyr-borpet-ru-79805520101manager-borpet-ru {
+  row-gap: 69px;
+  column-gap: 118px;
+}
+
+.about-us-t_1lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et {
+  row-gap: 28px;
+  width: 304px;
+  flex-shrink: 0;
+}
+
+.about-us-_ {
+  width: 192px;
+  height: 38px;
+  flex-shrink: 0;
+}
+
+.about-us-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et {
+  font-weight: 490;
+}
+
+.about-us-t-2 {
+  row-gap: 24px;
+  width: 247px;
+  padding-left: 55px;
+  flex-shrink: 0;
+}
+
+.about-us-component-4 {
+  mix-blend-mode: normal;
+  width: 167px;
+}
+
+.about-us-component-5 {
+  mix-blend-mode: normal;
+  font-weight: 490;
+}
+
+.about-us-spacer {
+  height: 24px;
+}
+
+.about-us-spacer-1 {
+  height: 24px;
+}
+
+.about-us-spacer-2 {
+  height: 24px;
+}
+
+.about-us-t-3 {
+  row-gap: 24px;
+  width: 193px;
+  flex-shrink: 0;
+}
+
+.about-us-component-6 {
+  mix-blend-mode: normal;
+}
+
+.about-us-component-7 {
+  mix-blend-mode: normal;
+  width: 188px;
+  height: 188px;
+  font-weight: 490;
+  flex-shrink: 0;
+}
+
+.about-us-spacer-3 {
+  height: 24px;
+}
+
+.about-us-spacer-4 {
+  height: 24px;
+}
+
+.about-us-spacer-5 {
+  height: 24px;
+}
+
+.about-us-t-10100079805520101komdyr-borpet-ru-79805520101manager-borpet-ru {
+  row-gap: 43px;
+  width: 249px;
+  padding-left: 25px;
+  flex-shrink: 0;
+}
+
+.about-us-component-8 {
+  mix-blend-mode: normal;
+  width: 152px;
+}
+
+.about-us-komdyr-borpet-ru-79805520101manager-borpet-ru {
+  mix-blend-mode: normal;
+}
+
+.about-us-para-17 {
+  font-weight: 490;
+}
+
+.about-us-spacer-6 {
+  height: 24px;
+}
+
+.about-us-text-6 {
+  text-decoration: underline;
+}
+
+.about-us-spacer-7 {
+  height: 24px;
+}
+
+.about-us-text-7 {
+  text-decoration: underline;
+}
+
+.about-us-line {
+  align-self: stretch;
+  height: 1px;
+  flex-shrink: 0;
+}
+
+.about-us-t-t2024company-name-all-rights-reserved {
+  padding-right: 33px;
+  padding-top: 8.4px;
+}
+
+.about-us-t-2024company-name-all-rights-reserved {
+  row-gap: 12px;
+  column-gap: 618px;
+  font-family: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
+  font-weight: 600;
+}
+
+.about-us-company-name-all-rights-reserved {
+  mix-blend-mode: normal;
+  width: 328px;
+  flex-shrink: 0;
+}
+
+.about-us-component-9 {
+  mix-blend-mode: normal;
+  width: 366px;
+  text-align: right;
+  flex-shrink: 0;
+}
+
+.about-us-t-4 {
+  height: 72px;
+  left: 496px;
+  right: 500px;
+  top: calc(50% + -36px + 238px);
+  position: absolute;
+  flex-shrink: 0;
+}
+
+.about-us-component-10 {
+  text-align: center;
+  line-height: 1.5;
+}
+
+.about-us-t-5 {
+  width: 482px;
+  height: 50px;
+  padding-left: 482px;
+  padding-top: 50px;
+  z-index: 5;
+  right: 83px;
+  top: calc(50% + -25px + -448.4px);
+  position: absolute;
+  flex-shrink: 0;
+}
+
+.about-us-component-11 {
+  text-align: center;
+  bottom: 0px;
+  font-size: 20px;
+  line-height: 1.25;
+  letter-spacing: 0em;
+}
+
+.about-us-t-fluent-call-24filled {
+  width: 28px;
+  height: 28px;
+  padding-left: 28px;
+  padding-top: 28px;
+  left: calc(50% + -14px + 161px);
+  top: 348px;
+  position: absolute;
+  background-image: url(/assets_contact/FluentCall24Filled.svg);
+  background-size: cover;
+  background-position: center;
+  flex-shrink: 0;
+}
+
+.about-us-tt-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing {
+  height: 203px;
+  left: 64px;
+  right: 66px;
+  top: calc(50% + -101.5px + 442px);
+  position: absolute;
+  flex-shrink: 0;
+}
+
+.about-us-t-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing {
+  row-gap: 65px;
+  column-gap: 65px;
+  width: 1310px;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+.about-us-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing {
+  width: 613px;
+  flex-shrink: 0;
+}
+
+.about-us-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-1 {
+  width: 632px;
+  flex-shrink: 0;
+}
+@media (min-width: 1430px) {
+  .about-us-ttt-t79805520101komdyr-borpet-ru-79805520101manager-borpet-ru-tvector {
+    flex-wrap: nowrap;
+  }
+  .about-us-tt-t79805520101komdyr-borpet-ru-79805520101manager-borpet-ru-tvector {
+    flex-wrap: nowrap;
+  }
+  .about-us-ttt-union-tlogo-ttvector-t0tttunion-0vector {
+    flex-wrap: nowrap;
+  }
+  .home-t-union {
+    flex-wrap: nowrap;
+  }
+  .about-us-t-t_1lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-ttt10100079805520101komdyr-borpet-ru-79805520101manager-borpet-ru {
+    flex-wrap: nowrap;
+  }
+  .about-us-t-2024company-name-all-rights-reserved {
+    flex-wrap: nowrap;
+  }
+  .about-us-t-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing {
+    flex-wrap: nowrap;
+  }
+}

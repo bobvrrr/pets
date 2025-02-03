@@ -1,0 +1,92 @@
+/* Стиль для первого драйвера */
+.home-driver-1 {
+  position: fixed;
+  top: 100px;
+  right: -600px;
+  width: 600px;
+  height: 100%;
+  background-color: #FFF;
+  color: black;
+  transition: right 0.3s ease;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  overflow-y: scroll;
+  z-index: 9999999999999;
+
+}
+
+/* Стиль для второго драйвера */
+.home-driver-2 {
+  position: fixed;
+  top: 100px;
+  right: -600px;
+  width: 600px;
+  height: 100%;
+  background-color: #FFF;
+  color: black;
+  transition: right 0.3s ease;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  overflow-y: scroll;
+  z-index: 9999999999999;
+
+}
+
+.home-driver-3 {
+  position: fixed;
+  top: 100px;
+  right: -600px;
+  width: 600px;
+  height: 100%;
+  background-color: #FFF;
+  color: black;
+  transition: right 0.3s ease;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  overflow-y: scroll;
+  z-index: 9999999999999;
+
+}
+.home-driver-4 {
+  position: fixed;
+  top: 100px;
+  left: -600px;
+  width: 600px;
+  height: 100%;
+  background-color: #FFF;
+  color: black;
+  transition: right 0.3s ease;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  overflow-y: scroll;
+  z-index: 9999999999999;
+}
+
+/* Стили для кнопки закрытия */
+.home-driver .close-btn {
+  position: absolute;
+  top: 10px;
+  right: 5px;
+  background-color: #FFF;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  color: black;
+  cursor: pointer;
+  z-index: 9999999999999;
+}
+.home-t-union{
+  display: flex;
+}

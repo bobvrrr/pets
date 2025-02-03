@@ -1,0 +1,17 @@
+<svg width="100%" height="100%" style="overflow:visible;" preserveAspectRatio="none" viewBox="0 0 169.34 275.83" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g filter="url(#filter0_f_246_578)">
+<path d="M40.8104 221.504L3.36621 251.958L124.019 266.559L152.31 247.369L40.8104 221.504Z" fill="black" fill-opacity="0.74"/>
+</g>
+<rect x="0.473633" y="0.925293" width="149.117" height="265.634" fill="url(#pattern0_246_578)"/>
+<defs>
+<filter id="filter0_f_246_578" x="-6.83379" y="211.304" width="169.344" height="65.4555" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="5.1" result="effect1_foregroundBlur_246_578"/>
+</filter>
+<pattern id="pattern0_246_578" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_246_578" transform="scale(0.0021645 0.00121507)"/>
+</pattern>
+<image id="image0_246_578" width="462" height="823" xlink:href="/assets_home/group.png"/>
+</defs>
+</svg>
